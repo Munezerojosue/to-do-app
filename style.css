@@ -1,0 +1,52 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.nav ul{
+      list-style-type: none;
+    
+}
+.nav ul li a{
+    margin-left: 10px;
+    color: black;
+    font-size: large;
+}
+
+
+
+li{
+    margin-left: 15px;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+}
+
+.text{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.list{
+    margin-left: 40%;
+    margin-top: 100px;
+
+
+}
+
+.ull{
+    
+    list-style-type: none;
+}
+
+.ull ul a{
+    
+    
+    color: black;
+    font-size: large;
+    
+}
