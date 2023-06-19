@@ -61,6 +61,7 @@ a{
 }
 .nav1 li{
     margin-left: 15px;
+    list-style-type: none;
 }
 .nav a{
     text-decoration: none;
