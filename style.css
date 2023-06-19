@@ -5,13 +5,19 @@
 }
 
 .nav ul{
+    display: flex;
       list-style-type: none;
+    flex-direction:row;
+
     
 }
 .nav ul li a{
     margin-left: 10px;
     color: black;
     font-size: large;
+    
+    
+
 }
 
 
