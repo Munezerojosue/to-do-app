@@ -3,6 +3,11 @@
     flex-direction: row;
     justify-content: space-between;
 }
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
 .nav ul{
     display: flex;
@@ -15,9 +20,6 @@
     margin-left: 10px;
     color: black;
     font-size: large;
-    
-    
-
 }
 
 
@@ -45,14 +47,29 @@ a{
 }
 
 .ull{
-    
     list-style-type: none;
 }
 
 .ull ul a{
-    
-    
     color: black;
     font-size: large;
-    
+}
+.nav1 ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+.nav1 li{
+    margin-left: 15px;
+    list-style-type: none;
+}
+.nav a{
+    text-decoration: none;
+}
+.title{
+    text-align: center;
+}
+.details{
+    text-align: center;
+    list-style-type: none;
 }
